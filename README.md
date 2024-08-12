@@ -1,2 +1,2 @@
  **Landing-Page**
-Live Preview - [Click Here](https://https://landing-page-net.netlify.app//)
+Live Preview - [Click Here](https://landing-page-net.netlify.app//)
